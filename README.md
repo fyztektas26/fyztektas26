@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fyztektas26
 - 👀 I’m interested in vtol,plne
-- 🌱 I’m currently learning pc4
+- 🌱 I’m currently learning px4
 - 💞️ I’m looking to collaborate on knowledge
 - 📫 How to reach me fyztkts2006@gmail.com
 
